@@ -1,0 +1,4 @@
+meta-pipe
+=========
+
+metagenomic pipeline
